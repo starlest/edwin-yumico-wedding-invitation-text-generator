@@ -59,15 +59,15 @@ export default function Home() {
                   Dear {firstName} {lastName},
                   <br />
                   <br />
-                  We're overjoyed to share some wonderful news with you! Love has filled our hearts, and we would be truly honored to have you join us in celebrating our union in matrimony.
+                  We&#39;re overjoyed to share some wonderful news with you! Love has filled our hearts, and we would be truly honored to have you join us in celebrating our union in matrimony.
                   <br />
                   <br />
-                  You're Cordially Invited to Our Wedding! Please visit our wedding website for all the details:
+                  You&#39;re Cordially Invited to Our Wedding! Please visit our wedding website for all the details:
                   <br />
                   https://kondangankuy.com/EdwinYumicowedding/?to={firstName}+{lastName}
                   <br />
                   <br />
-                  Your love and blessings mean the world to us, and we can't wait to see your radiant smile on our special day. We eagerly anticipate sharing this joyous occasion with you, surrounded by our beloved family and friends.
+                  Your love and blessings mean the world to us, and we can&#39;t wait to see your radiant smile on our special day. We eagerly anticipate sharing this joyous occasion with you, surrounded by our beloved family and friends.
                   <br />
                   <br />
                   With heartfelt love and boundless excitement,
