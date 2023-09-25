@@ -86,7 +86,7 @@ export default function Home() {
                   <br />
                   Anda Diundang ke Pernikahan Kami! Silakan kunjungi situs web pernikahan kami untuk seluruh detail acara:
                   <br />
-                  https://kondangankuy.com/EdwinYumicowedding/?to={firstName}+{lastName}
+                  https://kondangankuy.com/EdwinYumicowedding/?to={firstName}&#43;{lastName}
                   <br />
                   <br />
                   Kami tak sabar untuk berbagi momen kebahagiaan ini bersama Anda, dikelilingi oleh keluarga dan sahabat.
